@@ -1,4 +1,4 @@
-////////////////////////////// Nested If Statement Of Python ///////////////////////////////////
+# ////////////////////////////// Nested If Statement On Python ///////////////////////////////////
 
 tvShow = input("What is your favorite tv show? ")
 if tvShow == "peppa pig":
@@ -13,7 +13,7 @@ elif tvShow == "paw patrol":
 else:
   print("Yeah, that's cool and all…")
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 tvShow = input("What is your favourite tv show? ")
 if tvShow == "peppa pig":
@@ -45,7 +45,7 @@ elif order == pizza:
 else:
   print"Your pizza will not have pepperoni.")
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 tvShow = input("What is your favorite TV Show? :  ")
 
@@ -67,4 +67,4 @@ else:
   print("I don't know this")
 
 
-///////////////// Day 7 Finish /////////////////
+# ///////////////// Day 7 Finish /////////////////
