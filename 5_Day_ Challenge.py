@@ -1,4 +1,4 @@
-////////////////////////////// If - Else Statement Of Python ///////////////////////////////////
+# ////////////////////////////// If - Else Statement On Python ///////////////////////////////////
 
 myName = input("What's your name?: ")
 if myName == "David":
@@ -15,7 +15,7 @@ if myName == "David":
 else:
  print("Who on earth are you?!")
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 catsOrDogs = input("Are you a cat person? Or a dog person?: ")
 if catsOrDogs = "cat":
@@ -43,7 +43,7 @@ if drink = "coffee"
     else:
   print("Excellent choice.")
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 print("Marvel Movie Character Creator")
 print()
@@ -69,4 +69,4 @@ else :
   print("who the hell are you?")
 
 
-///////////////// Day 5 Finish /////////////////
+# ///////////////// Day 5 Finish /////////////////
