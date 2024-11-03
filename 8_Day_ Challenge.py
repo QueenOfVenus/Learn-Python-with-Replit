@@ -1,8 +1,8 @@
-////////////////////////////// Affirmations (or insults) Generator Of Python ///////////////////////////////////
+# ////////////////////////////// Affirmations (or insults) Generator On Python ///////////////////////////////////
 
 
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 name = input("Name: ")
 if name == "Dave" or "dave":
@@ -13,7 +13,7 @@ name = input("Name: ")
 if name == "Dave" or name == "dave":
   print("Hi Dave")
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 print("Hello. What's your name?")
 name = input("")
@@ -36,4 +36,4 @@ if name == "Dolu" or name == "dolu" :
 else :
   print("I know are not you honey. Get out! Get Out here now!!!")
 
-///////////////// Day 8 Finish /////////////////
+# ///////////////// Day 8 Finish /////////////////
