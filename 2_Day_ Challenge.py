@@ -1,4 +1,4 @@
-////////////////////////////// External Data Entry Of Python ///////////////////////////////////
+# ////////////////////////////// External Data Entry On Python ///////////////////////////////////
 
 input("What's your name?: ")
 
@@ -16,7 +16,7 @@ print(myAge)
 print("and clearly think that Replit is")
 print(replit)
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 my variable = input("WHO GOES THERE? ")
 print(my variable)
@@ -46,7 +46,7 @@ print("That's cool, I just wanted to know that")
 print(maidenName)
 print("was your Mum's maiden name. Not because the bank requested it or anything, honest.")
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 name = input("Hello! What's your name? ")
 food = input("So, what's your favourite food? ")
@@ -65,4 +65,4 @@ print(music)
 print("living in the amazing")
 print(live)
 
-///////////////// Day 2 Finish /////////////////
+# ///////////////// Day 2 Finish /////////////////
