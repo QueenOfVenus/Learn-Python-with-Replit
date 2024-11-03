@@ -1,4 +1,4 @@
-////////////////////////////// Print Formats Of Python ///////////////////////////////////
+# ////////////////////////////// Print Formats On Python ///////////////////////////////////
 
 myName = input("What's your name? ")
 myLunch = input("What are you having for lunch? ")
@@ -9,7 +9,7 @@ group = input("Give me a collective noun for a group of things: ")
 thing = input("Give me the name of a weird or wacky thing: ")
 print("No I don't think that", number, "is a", group, "of", thing,". That's just odd.")
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 yourName = input("Name: ")
 whatYear = input("What year is it?: ")
@@ -32,7 +32,7 @@ print()
 print("There was a person called" name)
 print("Who did something cool like", thing, "at the wonderful", place "where you'll find me", rhyme)
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 food = input("What meal are we making for dinner?:  ")
 plant = input("Which herb will you add?:  ")
@@ -44,4 +44,4 @@ print()
 print("MENU")
 print(methodC, food, "with", burn, plant, "on a bed of", item)
 
-///////////////// Day 3 Finish /////////////////
+# ///////////////// Day 3 Finish /////////////////
