@@ -1,4 +1,4 @@
-////////////////////////////// Mathematical Expressions On Python ///////////////////////////////////
+# ////////////////////////////// Mathematical Expressions On Python ///////////////////////////////////
 
 adding = 4 + 3
 print(adding)
@@ -37,7 +37,7 @@ print("You all owe", answer)
 
 
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 👉 # Solve the following problems with my code
 # Your goal is to print the solution of all 3 calculations to the screen.
@@ -53,7 +53,7 @@ print("You all owe", answer)
 # print the remainder when 343 is divided by 4
 print("343 // 100")
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 # Çözüm 1
 myBill = float(input("What was the bill?: "))
@@ -96,4 +96,4 @@ final_amount = round(bill_per_person, 2)
 
 print("You all owe", final_amount)
 
-///////////////// Day 10 Finish /////////////////
+# ///////////////// Day 10 Finish /////////////////
