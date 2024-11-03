@@ -1,4 +1,4 @@
-////////////////////////////// Colorful Texts Of Python ///////////////////////////////////
+# ////////////////////////////// Colorful Texts On Python ///////////////////////////////////
 
 Default	0
 Black	30
@@ -12,11 +12,11 @@ White	37
 
 print("Uh, oh, you've been given a", "\033[31m", "warning", "\033[0m", "for being a bad, bad person.")   ///default red default
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 print("Welcome to your adventure simulator. ")
 print()
@@ -39,4 +39,4 @@ print(" have to look at ", enemy, " again. Go eat ", food,
 print("the streets of ", live, " and use ", power, " for good and not evil! ")
 
 
-///////////////// Day 4 Finish /////////////////
+# ///////////////// Day 4 Finish /////////////////
