@@ -1,4 +1,4 @@
-////////////////////////////// Say Hello On Python ///////////////////////////////////
+# ////////////////////////////// Say Hello On Python ///////////////////////////////////
 print("Well we")
 print("just use more lines")
 print("of code")
@@ -9,7 +9,7 @@ in three quotes can span
 many lines and even contain " symbols
 within it without freaking anything out!""")
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 Print("What could go wrong?")
 
@@ -23,7 +23,7 @@ Print("> Albums")
 print(> Artists")
 
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 print("Mark")
 print("October 2nd 2024")
@@ -39,5 +39,5 @@ excuses for not coding from the middle of a field!
 print("I am feeling 😎")
 
 
-///////////////// Day 1 Finish /////////////////
+# ///////////////// Day 1 Finish /////////////////
 
