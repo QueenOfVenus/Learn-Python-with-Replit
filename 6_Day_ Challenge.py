@@ -1,4 +1,4 @@
-////////////////////////////// If - Elif - Else Statements Of Python ///////////////////////////////////
+# ////////////////////////////// If - Elif - Else Statements On Python ///////////////////////////////////
 
 print("SECURE LOGIN")
 username = input("Username > ")
@@ -24,7 +24,7 @@ elif username == "suzanne":
 else:
  print("Go away!")
 
-//////Fix The Code//////
+# //////Fix The Code//////
 
 print("SECURE LOGIN")
 username = input("Username > ")
@@ -38,18 +38,18 @@ elif username == "suzanne":
 
 
 season = input(what is your favorite season?)
-if season = "spring"
+if season == "spring":
   print("Ah! The birds are chirping and flowers blooming.")
-  elif season == summer:
+elif season == "summer":
   print("Catch some sun and cool off with a lemonade.")
-elif season == autumn
+elif season == "autumn":
 print("The leaves are changing and the air is crisp. Enjoy!)
-      elif season = winter:
+elif season == "winter":
       print("Stay warm by the fire and watch the snow fall.")
 else: 
-print("I don't know that season. Please try again.")
+  print("I don't know that season. Please try again.")
 
-//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 print("My Login System")
 print("***********************")
@@ -69,4 +69,4 @@ else:
   print("╭∩╮( •̀_•́ )╭∩╮ = Fuck Off , BANG! BANG!")
 
 
-///////////////// Day 6 Finish /////////////////
+# ///////////////// Day 6 Finish /////////////////
