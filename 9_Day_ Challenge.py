@@ -1,4 +1,4 @@
-#////////////////////////////// Comparison Statements Of Python ///////////////////////////////////
+# ////////////////////////////// Comparison Statements On Python ///////////////////////////////////
 
 # equal
 5 == 5
@@ -34,7 +34,7 @@ else:
   print("Try again 😭")
 
 
-#//////Fix The Code//////
+# //////Fix The Code//////
 
 myPi = float(input("What is Pi to 3dp? ")
 if myPi == 3.142 :
@@ -57,7 +57,7 @@ elif score > "70":
 else:
 print("Dude, you need to study more!")
 
-#//////////// My Code ///////////////
+# //////////// My Code ///////////////
 
 burn = int(input("Which year were you burn?   :  "))
 if burn >= 1901 and burn <= 1927 :
@@ -76,4 +76,4 @@ else :
   print("I dont understand Dude?")
 
 
-#///////////////// Day 9 Finish /////////////////
+# ///////////////// Day 9 Finish /////////////////
